@@ -109,6 +109,10 @@ h1 {
 	font-size: 18px;
 	font-family: "Trebuchet MS";
 }
+
+.contact_icon{
+	height: 75px;
+}
 .footer {
 	font-family: "Trebuchet MS";
 	font-size: 14px;
